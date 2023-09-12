@@ -1,0 +1,2 @@
+000001, Lightsaber, A sword mad of pure energy, 1000.00
+
